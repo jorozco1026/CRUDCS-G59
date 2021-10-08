@@ -1,0 +1,9 @@
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\bin\Debug\netstandard2.0\ProyectoG59.App.Dominio.deps.json
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\bin\Debug\netstandard2.0\ProyectoG59.App.Dominio.dll
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\bin\Debug\netstandard2.0\ProyectoG59.App.Dominio.pdb
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.csprojAssemblyReference.cache
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.AssemblyInfoInputs.cache
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.AssemblyInfo.cs
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.csproj.CoreCompileInputs.cache
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.dll
+C:\proyectos_mintic\ProyectoG59.App\ProyectoG59.App.Dominio\obj\Debug\netstandard2.0\ProyectoG59.App.Dominio.pdb

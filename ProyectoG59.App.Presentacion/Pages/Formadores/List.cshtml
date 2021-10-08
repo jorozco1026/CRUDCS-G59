@@ -1,0 +1,45 @@
+﻿@page
+@model ProyectoG59.App.Presentacion.ListModel
+
+@{
+}
+  
+@{  
+        ViewData["Title"] = "LISTA FORMADORES";  
+}  
+
+<h2>LISTA FORMADORES</h2>  
+<p>  
+    <a asp-action="Create">Create New</a>  
+</p>  
+<table class="table">  
+    <thead>  
+        <tr>  
+            <th>  
+                ID
+            </th>  
+            <th>  
+               NOMBRE 
+            </th> 
+            <th></th>  
+        </tr>  
+    </thead>  
+    <tbody>  
+        @foreach (var item in Model.Formadores)  {  
+            <tr>  
+                <td>  
+                    @Html.DisplayFor(ModelItem => item.id)  
+                </td>  
+                <td>  
+                    @Html.DisplayFor(ModelItem => item.nombre)  
+                </td>                  
+                <td>  
+                    <a class="nav-link text-dark" asp-area="" asp-page="Editar" asp-route-id="@item.id">Edit</a>   
+                    <a class="nav-link text-dark" asp-area="" asp-page="Eliminar" asp-route-id="@item.id">Edit</a> 
+                    <a class="nav-link text-dark" asp-area="" asp-page="Detalle" asp-route-id="@item.id">Edit</a> 
+                </td>  
+            </tr>  
+        }  
+    </tbody>  
+</table>  
+
